@@ -199,7 +199,7 @@ The Power BI dashboard presents the main findings through:
 
 ### Dashboard Preview
 
-![E-Commerce Sales Funnel Dashboard](images/dashboard.png)
+![E-Commerce Sales Funnel Dashboard]([images/dashboard.png](https://github.com/ocizekor-tech/sales-funnel-analysis/blob/main/sales-funnel-image.png))
 
 ---
 
