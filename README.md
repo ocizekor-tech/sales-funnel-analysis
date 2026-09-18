@@ -201,6 +201,8 @@ The Power BI dashboard presents the main findings through:
 
 ![E-Commerce Sales Funnel Dashboard]([images/dashboard.png](https://github.com/ocizekor-tech/sales-funnel-analysis/blob/main/sales-funnel-image.png))
 
+funnel analysis sql = https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sproject-b8490b6c-35e9-4fd3-ad2!2seurope-west2!3sba0b8700-1687-4097-ad79-96e790caed57!2e1 
+
 ---
 
 ## Limitations
